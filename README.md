@@ -1,5 +1,5 @@
 # Radar Doppler Processing project 
-This project was part of a master level class that i took in Radar Engineering. Here i will procide the Project statment, some explnations, Results, and my code which is well commented and self explanatory .
+This project was part of a master level class that i took in Radar Engineering. Here i will provide the Project statement, some explanations, Results, and my code which is well commented and self-explanatory .  
 
 # The Project statment
 This project involves fast- and slow-time processing of a 1GHz, pulsed-Doppler radar to generate the range-Doppler map of 5 moving targets. The targets’ range and speed will be randomly generated using matlab functions.
